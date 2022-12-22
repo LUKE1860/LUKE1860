@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luke</h1>
 <h3 align="center">Let the borrow checker be with you 🦀</h3>
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
-<img align="right" alt="Coding" width="400" src="https://tenor.com/pl/view/ferris-rust-rustlang-crab-cute-gif-26396486">
+<img src="https://tenor.com/pl/view/ferris-crab-cheer-clap-looping-gif-26403768" width="40" height="40" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luke1860&label=Profile%20views&color=0e75b6&style=flat" alt="luke1860" /> </p>
 
 - 🌱 I’m currently learning **C++,Elixir**
