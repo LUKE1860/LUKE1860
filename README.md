@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luke</h1>
 <h3 align="center">Let the borrow checker be with you 🦀</h3>
-<div class="tenor-gif-embed" data-postid="26396486" data-share-method="host" data-aspect-ratio="1.30612" data-width="100%"><a href="https://tenor.com/view/ferris-rust-rustlang-crab-cute-gif-26396486">Ferris Rust GIF</a>from <a href="https://tenor.com/search/ferris-gifs">Ferris GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+<img align="right" alt="Coding" width="400" src="C:\Users\lukas\Desktop\ferris-rust.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luke1860&label=Profile%20views&color=0e75b6&style=flat" alt="luke1860" /> </p>
 
 - 🌱 I’m currently learning **C++**
