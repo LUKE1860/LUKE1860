@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++,Elixir**
 
-- ⚡ Fun fact **Always sort before binary_search :)**
+- ⚡ Fun fact **Use Rust, i mean it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
