@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Luke</h1>
-<h3 align="center">Let the borrow checker be with you 🦀</h3>
+<h3 align="center">May the borrow checker be with you 🦀</h3>
 <img src="https://rustacean.net/more-crabby-things/dancing-ferris.gif" width="734" height="490" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luke1860&label=Profile%20views&color=0e75b6&style=flat" alt="luke1860" /> </p>
 
 - 🌱 I’m currently learning **C++,Elixir**
 
-- ⚡ Fun fact **I hate myself :)**
+- ⚡ Fun fact **Always sort before binary_search :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
